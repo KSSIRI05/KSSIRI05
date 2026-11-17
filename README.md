@@ -28,7 +28,7 @@
 ## 💼 Experience
 
 **Backend Developer Intern @ Lazal Technologies** (Remote) · *June – August 2026*
-*CloudForest — B2B Cloud & MLOps platform*
+*[CloudForest](https://github.com/KSSIRI05/cloudforest-backend) — B2B Cloud & MLOps platform*
 
 - Node.js REST services and an **API Gateway**, with Docker Compose running PostgreSQL and MongoDB
 - Account security: **RS256 JWTs**, refresh-token rotation, bcrypt, email verification and password reset
@@ -48,12 +48,12 @@ Event management platform for the INPT gaming club: JWT authentication, registra
 
 `Next.js` `TypeScript` `FastAPI` `SQLAlchemy` `Docker` `GitHub Actions`
 
-### ✅ [project-api](https://github.com/KSSIRI05/project-api) — Task Management REST API
+### ✅ [API-PROJECT](https://github.com/KSSIRI05/API-PROJECT) — Task Management REST API
 Asynchronous REST API (full CRUD, priorities, due dates, status) with Beanie models, Pydantic validation and Pytest endpoint tests. Containerized with Docker and shipped through a GitHub Actions CI/CD pipeline.
 
 `Python` `FastAPI` `Beanie` `MongoDB` `Pytest` `Docker` `CI/CD`
 
-### 🕹️ GameBoost — Gaming Session REST API
+### 🕹️ [GameBoost](https://github.com/KSSIRI05/GameBoost) — Gaming Session REST API
 Spring Boot REST API with role-based access control (RBAC) and a five-state session lifecycle machine, backed by **108 unit tests at 90%+ JaCoCo coverage**.
 
 `Java` `Spring Boot` `Spring Security` `JUnit` `Mockito` `JaCoCo`
